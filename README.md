@@ -52,3 +52,5 @@ Due to the fact that there is no development code once the test cases are comple
 will immediately fail, the task of the developer is now to write code which makes these tests 
 pass. 
 
+The test cases cover a range of potential inputs, including positive integers, negative integers 
+and zero.

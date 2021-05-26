@@ -4,7 +4,6 @@ public class Raindrops {
 
     public String plingPlangPlong(int n) {
         int moduloThree = n % 3, moduloFive = n % 5, moduloSeven = n % 7;
-
         int[] remainders = {moduloThree, moduloFive, moduloSeven};
         String[] dropletNoises = {"Pling", "Plang", "Plong"};
 
