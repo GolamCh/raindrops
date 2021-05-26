@@ -1,4 +1,4 @@
-#Raindrops
+# Raindrops
 *By Golam Choudhury*
 ## Overview 
 The purpose of this application is to demonstrate simple Java programming techniques as well as
@@ -42,7 +42,7 @@ raindrops.plingPlangPlong(210); // returns "PlingPlangPlong"
 
 raindrops.plingPlangPlong(-35); // returns "PlangPlong"
 ```
-##Testing
+## Testing
 This mini-project has taken a Test Driven Development (TDD) approach, which means the test cases
 and accompanying expected outputs has been defined before any methods have been created. This 
 allows for one to go into the development process knowing full-well what the expected outcome of
