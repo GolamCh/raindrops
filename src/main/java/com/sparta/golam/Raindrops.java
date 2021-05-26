@@ -15,9 +15,7 @@ public class Raindrops {
             }
         }
 
-        if (n == 0) {
-            return "0";
-        } else if (stringBuilder.toString().equals("")) {
+        if (n == 0 || stringBuilder.toString().equals("")) {
             return Integer.toString(n);
         } else {
             return stringBuilder.toString();
