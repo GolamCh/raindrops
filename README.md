@@ -3,7 +3,7 @@
 ## Overview 
 The purpose of this application is to demonstrate simple Java programming techniques as well as
 being an exercise in employing thorough quality-assurance and testing.
-###Method Description
+### Method Description
 The plingPlangPlong method returns a String depending on the integer that is passed to it. More 
 precisely, it depends on the factors of that integer. The three factors this method is concerned 
 with are 3, 5 & 7. The method initialises a StringBuilder which starts off with an empty String.
@@ -12,7 +12,7 @@ The method rules:
 - A user passes an integer, n
 - If 3 is a factor of n, the string builder will append "Pling"
 - If 5 is a factor of n, the string builder will append "Plang"
-- If 7 is a factor of n, the string builder will append "Plang"
+- If 7 is a factor of n, the string builder will append "Plong"
 - If neither 3, 5 or 7 are factors of n, the method will return n (as a String)
 
 Examples inputs and outputs:
