@@ -6,7 +6,6 @@ public class Raindrops {
         int moduloThree = n % 3, moduloFive = n % 5, moduloSeven = n % 7;
         int[] remainders = {moduloThree, moduloFive, moduloSeven};
         String[] dropletNoises = {"Pling", "Plang", "Plong"};
-
         StringBuilder stringBuilder = new StringBuilder();
 
         for (int i = 0; i <= remainders.length - 1; i++) {
