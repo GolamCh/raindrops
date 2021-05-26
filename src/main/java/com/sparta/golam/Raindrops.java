@@ -24,5 +24,4 @@ public class Raindrops {
             return stringBuilder.toString();
         }
     }
-
 }
