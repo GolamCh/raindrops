@@ -8,7 +8,7 @@ The plingPlangPlong method returns a String depending on the integer that is pas
 precisely, it depends on the factors of that integer. The three factors this method is concerned 
 with are 3, 5 & 7. The method initialises a StringBuilder which starts off with an empty String.
 
-The method rules:
+Method rules:
 - A user passes an integer, n
 - If 3 is a factor of n, the string builder will append "Pling"
 - If 5 is a factor of n, the string builder will append "Plang"
